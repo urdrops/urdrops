@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Urdrops [¬º-°]¬
+Geek by day, coder by night. [¬º-°]¬
 </h1>
 <br/>
 <p align="center">
