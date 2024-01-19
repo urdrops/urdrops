@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">
 Hi, I'm Urdrops!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
@@ -137,3 +138,6 @@ Last Edited On: 18/04/2022
 
 
 
+=======
+# urdrops
+>>>>>>> origin/main
