@@ -12,7 +12,7 @@ Hi, I'm Urdrops [¬º-°]¬
 ```
 urdrops@github
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
+💻 I am a self taught DevOps and a Machine Learning Developer
 📚 I have a Bachelors in Computer Science from the Amity University in Tashkent
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
@@ -20,7 +20,7 @@ urdrops@github
 🌟 Main languages: Python, C, JavaScript
 🚩 Interested in Full Stack Machine Learning Application development
 💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+🎵 Dominic Fike - Mama’s Boy
 ```
 <hr>
 
@@ -36,7 +36,7 @@ urdrops@github
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3AC"><img alt="Python" src="https://img.shields.io/badge/cpp%20-%2314000C.svg?logo=c&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 
-### 🧰 Tools, Frameworks and Libraries
+### 🧰 Other software development kit 
 
 <p align="left">
 <br>
