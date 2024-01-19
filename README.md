@@ -74,7 +74,6 @@ urdrops@github
 
 |                                                                     Vishal's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=urdrops&theme=react-dark&hide_border=true&area=true) |
 | ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=urdrops&show_icons=true&theme=algolia)              | 
 | ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=urdrops&theme=algolia)                    | 
     
