@@ -3,7 +3,7 @@ Code, coffee, commit, repeat. [¬º-°]¬
 </h1>
 <br/>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=C70CF7&center=true&vCenter=true&random=true&width=435&lines=Computer+Science+Student;Data+Science+major+;IoT+Engineer;AI+%7C+ML+%7C+DL+enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=C70CF7&center=true&vCenter=true&random=true&width=435&lines=Computer+science+student;Data+science+explorer+;IoT+Engineer;AI+%7C+ML+%7C+DL+enthusiast" alt="Typing SVG" />
 </p>
 
 <img align="left" src="side_animation.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
