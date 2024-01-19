@@ -17,11 +17,11 @@ Hi, I'm Urdrops!
 urdrops@github
 -------------------------
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
+📚 I have a Bachelors in Computer Science from the Amity University in Tashkent
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
+🌟 Main languages: Python, C, JavaScript
 🚩 Interested in Full Stack Machine Learning Application development
 💖 In a complicated relationship with Neural Networks
 🎵 Love metal, lofi, jazz and soft music
@@ -95,13 +95,13 @@ urdrops@github
 
 |                                                                     Vishal's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=I-am-vishalmaurya&theme=react-dark&hide_border=true&area=true) |
-| ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&theme=algolia)              | 
-| ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-am-vishalmaurya&theme=algolia)                    | 
+| ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=urdrops&theme=react-dark&hide_border=true&area=true) |
+| ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=urdrops&show_icons=true&theme=algolia)              | 
+| ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=urdrops&theme=algolia)                    | 
     
 
 |                                                                                                      Vishal's Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=algolia&layout=compact) |
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=urdrops&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urdrops&langs_count=8&theme=algolia&layout=compact) |
 
 
