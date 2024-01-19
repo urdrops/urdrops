@@ -21,6 +21,7 @@ urdrops@github
  Interested in Full Stack Machine Learning Application development
  In a complicated relationship with Neural Networks
  Dominic Fike - Mama’s Boy
+
 ```
 <hr>
 
