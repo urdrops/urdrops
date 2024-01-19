@@ -1,5 +1,5 @@
 <h1 align="center">
-Geek by day, coder by night [¬º-°]¬
+Code, coffee, commit, repeat. [¬º-°]¬
 </h1>
 <br/>
 <p align="center">
