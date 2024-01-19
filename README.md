@@ -26,7 +26,7 @@ urdrops@github
 <hr>
 
 
-## 🛠️ My Favorite Tools
+## 🛠️ Stack and tools
 
 ### 👨‍💻 Programming Languages
 
