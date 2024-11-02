@@ -12,14 +12,12 @@ Code, coffee, commit, repeat. [¬º-°]¬
 ```
 urdrops@github
 -------------------------
- I am a self taught DevOps and a Machine Learning Developer
- I have a Bachelors in Computer Science from the Amity University in Tashkent
- I have a strong interest in Data Science and Artificial Intelligence
- Working on Deep Learning & Machine Learning
- Learning about Computer Vision and Machine Learning stuff
- Main languages: Python, C, JavaScript
- Interested in Full Stack Machine Learning Application development
- Dominic Fike - Mama’s Boy
+ Computer Science Student Amity University
+ Robotics Engineer | Self-made Robot Builder
+ Aspiring Data Scientist & ML Engineer
+ Exploring: Data Engineering, Big Data, Machine Learning, Deep Learning, AI
+ Passionate about turning data into actionable insights
+ Currently learning: NLP, LLM, SAE (Scaling Automatic Neuron Description)
 ```
 <hr>
 
