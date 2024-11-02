@@ -13,7 +13,7 @@ Code, coffee, commit, repeat. [¬º-°]¬
 urdrops@github
 -------------------------
  Computer Science Student Amity University
- Robotics Engineer | Self-made Robot Builder
+ IoT, Embedded systems Engineer | Self-made Mechanical eyes
  Aspiring Data Scientist & ML Engineer
  Exploring: Data Engineering, Big Data, Machine Learning, Deep Learning, AI
  Passionate about turning data into actionable insights
